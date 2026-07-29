@@ -1,9 +1,3 @@
-### Waldemar Quevedo (aka Wally)
+### Waldemar Quevedo
 
-- NATS.io core maintainer working at Synadia Communications, Inc.
-
-- nats-io/k8s tooling.
-
-- Ruby/Python NATS.io clients maintainer
-
-- Author of ‘Practical NATS' :)
+- NATS core maintainer working at Synadia Communications, Inc.
